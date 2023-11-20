@@ -20,3 +20,6 @@ It is intuitive and interactive way to visualize geographic data.
 
 Whether you're mapping hiking trails, plotting land boundaries, or conducting on-the-field research, this Android GPS mapping app provides a versatile solution for live polygon tracking.
 Download now and embark on a seamless mapping experience tailored to your needs!
+
+#UI Interface
+![overall_look](https://github.com/Shariz254/LiveLocationMapping---GoogleMaps-Java/assets/65715258/22dcee35-d5cd-44ef-ad25-a2ea105f4ed5)
