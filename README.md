@@ -22,4 +22,16 @@ Whether you're mapping hiking trails, plotting land boundaries, or conducting on
 Download now and embark on a seamless mapping experience tailored to your needs!
 
 #UI Interface
+
+
 ![overall_look](https://github.com/Shariz254/LiveLocationMapping---GoogleMaps-Java/assets/65715258/22dcee35-d5cd-44ef-ad25-a2ea105f4ed5)
+
+# Start mapping
+
+![mapping_in_progress](https://github.com/Shariz254/LiveLocationMapping---GoogleMaps-Java/assets/65715258/b06bb844-02d4-4ca7-adc7-b84da4bcb9be)
+
+
+# Save and Complete
+
+![total_acerage_and_save](https://github.com/Shariz254/LiveLocationMapping---GoogleMaps-Java/assets/65715258/dd9eb5f8-ed9a-4305-96ac-e160e5edddc3)
+![complete_polygon](https://github.com/Shariz254/LiveLocationMapping---GoogleMaps-Java/assets/65715258/d744d5a7-44b1-4274-9a1c-78c1b4ab7c55)
